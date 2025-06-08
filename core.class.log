@@ -1,0 +1,2209 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '64D5B2F4F65BC4AC3FC9967EBB029A50',
+    participant: undefined
+  },
+  messageTimestamp: 1747508212,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'C6FEC29594EF5A9658D569737521EA1D',
+    participant: undefined
+  },
+  messageTimestamp: 1747508217,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10aa7f93-b1d2-4625-b0ee-39a91c563bbb',
+  keyword: 'key_60adc3f5-7f7a-47c4-8d76-08371a07e9cc',
+  answer: ' Intenta desconectando los equipos, espera 1 minuto y vuelve a conectar los equipos, espera 10 minutos y revisa la red \n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '13c913386fe7b7cc1eadf73ae369c1ad'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '8F63458155DAD6C17D5BB7E0BFB684E7',
+    participant: undefined
+  },
+  messageTimestamp: 1747508218,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  keyword: 'key_c20b4717-5e33-4f91-bb8a-105593647416',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f4096f19c24b53ec357abb7737d1738d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc55c191-cca0-4382-bbe7-e70a3a8ee310',
+  keyword: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ed5e8b026b384bb671e701df71c8f174'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'BD0FF7EDE259287AFBC5DF913B925600',
+    participant: undefined
+  },
+  messageTimestamp: 1747508222,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Moy',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Moy',
+  from: '5213322082281'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'EF1F0026A9479AD01D96166ADA92D669',
+    participant: undefined
+  },
+  messageTimestamp: 1747508255,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '18B0998E7FDD1B08F01841EFF6181E12',
+    participant: undefined
+  },
+  messageTimestamp: 1747508258,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10aa7f93-b1d2-4625-b0ee-39a91c563bbb',
+  keyword: 'key_60adc3f5-7f7a-47c4-8d76-08371a07e9cc',
+  answer: ' Intenta desconectando los equipos, espera 1 minuto y vuelve a conectar los equipos, espera 10 minutos y revisa la red \n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '13c913386fe7b7cc1eadf73ae369c1ad'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'DF9DE938C2AA4DBB8BAEA1893EED4B4E',
+    participant: undefined
+  },
+  messageTimestamp: 1747508259,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  keyword: 'key_c20b4717-5e33-4f91-bb8a-105593647416',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f4096f19c24b53ec357abb7737d1738d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc55c191-cca0-4382-bbe7-e70a3a8ee310',
+  keyword: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ed5e8b026b384bb671e701df71c8f174'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '9B26AC542E85376B2097FCD79F5F8B29',
+    participant: undefined
+  },
+  messageTimestamp: 1747508263,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Moy',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Moy',
+  from: '5213322082281'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214775915830@s.whatsapp.net',
+    fromMe: false,
+    id: '2D6B333902289F453E8B5FC7060FC961',
+    participant: undefined
+  },
+  messageTimestamp: 1748147808,
+  pushName: 'Julio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Precio',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Precio',
+  from: '5214775915830'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '237B6DF22B35A8C2F3205D966C4E0D94',
+    participant: undefined
+  },
+  messageTimestamp: 1748151234,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Spoiler?? 🤨🤨',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Spoiler?? 🤨🤨',
+  from: '5213322082281'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: '89597A4A5A0A4BF433AB12EFD59CD991',
+    participant: undefined
+  },
+  messageTimestamp: 1748221172,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buenas tardes, para reportar que desde al rededor de las 2 de la tarde nos quedamos sin internet, lo apagamos y lo prendimos como nos habían dicho pero nada y no aparece ya ni en las opciones de internet',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenas tardes, para reportar que desde al rededor de las 2 de la tarde nos quedamos sin internet, lo apagamos y lo prendimos como nos habían dicho pero nada y no aparece ya ni en las opciones de internet',
+  from: '5213481073192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: '91EA2823BAF507AC95D93A27356470D1',
+    participant: undefined
+  },
+  messageTimestamp: 1748221189,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5213481073192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ffdadd8f-d8c6-41cf-9614-6019529532cd',
+  keyword: 'key_a0497dd8-e951-4551-becf-0f4fa64be1d7',
+  answer: 'Verifica que tu dispositivo ( celular, laptop, pc, tableta, etc) tenga el wifi encendido, de no ser así, por favor enciendelo y espera 5 minutos para verificar que tengas señal.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4a172931824695763c8440e153548b6c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: 'AA885A8B9796FCE9A09E4025AC83A596',
+    participant: undefined
+  },
+  messageTimestamp: 1748221198,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213481073192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03d7d777-b5c4-48b8-b2e1-00c2167cd3cd',
+  keyword: 'key_3fd49e92-af52-49e1-8d93-d0650db2f75a',
+  answer: ' Revisa que tu celular reconozca la red, si la reconoce vuelve a ingresar la contraseña.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '07572f8c915c6a12369f80a3dde70263'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: '3BD55F5A4D9C4FA316B4A1403C879BFE',
+    participant: undefined
+  },
+  messageTimestamp: 1748221205,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213481073192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_08f4fe27-22ac-45dc-92fd-3f48f1860504',
+  keyword: 'key_658eb4ed-0325-401b-87d7-eeb46bb8ea7b',
+  answer: 'Asegurate que el modem tenga el foquito de WLAN o WIFI encendido, de no ser así, apaga y prende el modem, espera unos 8 minutos y vé si resultó.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b2fb10de5bb46e3ffaa97d1fe0ba0d7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: 'F70927420898612495DB64B0C53F9402',
+    participant: undefined
+  },
+  messageTimestamp: 1748221258,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213481073192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  keyword: 'key_c20b4717-5e33-4f91-bb8a-105593647416',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f4096f19c24b53ec357abb7737d1738d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc55c191-cca0-4382-bbe7-e70a3a8ee310',
+  keyword: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ed5e8b026b384bb671e701df71c8f174'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE56ED2E4675CC343A640795C8EE3BDD',
+    participant: undefined
+  },
+  messageTimestamp: 1748221275,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cristina Pérez Alvarez',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cristina Pérez Alvarez',
+  from: '5213481073192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '992DC96A9E594C2D5AEDDB4033354B23',
+    participant: undefined
+  },
+  messageTimestamp: 1748312101,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '128E67160F1386C356E4CD94DBDC1084',
+    participant: undefined
+  },
+  messageTimestamp: 1748312116,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ffdadd8f-d8c6-41cf-9614-6019529532cd',
+  keyword: 'key_a0497dd8-e951-4551-becf-0f4fa64be1d7',
+  answer: 'Verifica que tu dispositivo ( celular, laptop, pc, tableta, etc) tenga el wifi encendido, de no ser así, por favor enciendelo y espera 5 minutos para verificar que tengas señal.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4a172931824695763c8440e153548b6c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'FA02E62B24813267F94B2D17E120EFA0',
+    participant: undefined
+  },
+  messageTimestamp: 1748312120,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03d7d777-b5c4-48b8-b2e1-00c2167cd3cd',
+  keyword: 'key_3fd49e92-af52-49e1-8d93-d0650db2f75a',
+  answer: ' Revisa que tu celular reconozca la red, si la reconoce vuelve a ingresar la contraseña.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '07572f8c915c6a12369f80a3dde70263'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '62C03C03665F9AC2C18416E441C0C4CB',
+    participant: undefined
+  },
+  messageTimestamp: 1748312122,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_08f4fe27-22ac-45dc-92fd-3f48f1860504',
+  keyword: 'key_658eb4ed-0325-401b-87d7-eeb46bb8ea7b',
+  answer: 'Asegurate que el modem tenga el foquito de WLAN o WIFI encendido, de no ser así, apaga y prende el modem, espera unos 8 minutos y vé si resultó.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b2fb10de5bb46e3ffaa97d1fe0ba0d7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '901321A8EC7F7F092738A95FC7154966',
+    participant: undefined
+  },
+  messageTimestamp: 1748312124,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  keyword: 'key_c20b4717-5e33-4f91-bb8a-105593647416',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f4096f19c24b53ec357abb7737d1738d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc55c191-cca0-4382-bbe7-e70a3a8ee310',
+  keyword: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ed5e8b026b384bb671e701df71c8f174'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '069F9B7823C6AFF655EB075A805D9020',
+    participant: undefined
+  },
+  messageTimestamp: 1748312133,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '1026A8723FDE11DD03FAE7F4E89C6FDA',
+    participant: undefined
+  },
+  messageTimestamp: 1748312147,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ffdadd8f-d8c6-41cf-9614-6019529532cd',
+  keyword: 'key_a0497dd8-e951-4551-becf-0f4fa64be1d7',
+  answer: 'Verifica que tu dispositivo ( celular, laptop, pc, tableta, etc) tenga el wifi encendido, de no ser así, por favor enciendelo y espera 5 minutos para verificar que tengas señal.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4a172931824695763c8440e153548b6c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'B25406D3BE05CE338854582EC0ED57A5',
+    participant: undefined
+  },
+  messageTimestamp: 1748312151,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03d7d777-b5c4-48b8-b2e1-00c2167cd3cd',
+  keyword: 'key_3fd49e92-af52-49e1-8d93-d0650db2f75a',
+  answer: ' Revisa que tu celular reconozca la red, si la reconoce vuelve a ingresar la contraseña.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '07572f8c915c6a12369f80a3dde70263'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'C7F334EBC10C39AC3ABD75438BA36015',
+    participant: undefined
+  },
+  messageTimestamp: 1748312180,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_08f4fe27-22ac-45dc-92fd-3f48f1860504',
+  keyword: 'key_658eb4ed-0325-401b-87d7-eeb46bb8ea7b',
+  answer: 'Asegurate que el modem tenga el foquito de WLAN o WIFI encendido, de no ser así, apaga y prende el modem, espera unos 8 minutos y vé si resultó.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b2fb10de5bb46e3ffaa97d1fe0ba0d7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '26E219C5198619A85E6E52BB88254132',
+    participant: undefined
+  },
+  messageTimestamp: 1748312182,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  keyword: 'key_c20b4717-5e33-4f91-bb8a-105593647416',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f4096f19c24b53ec357abb7737d1738d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc55c191-cca0-4382-bbe7-e70a3a8ee310',
+  keyword: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ed5e8b026b384bb671e701df71c8f174'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '38D7FE669B775B741C5797A48DB2B158',
+    participant: undefined
+  },
+  messageTimestamp: 1748312216,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Luis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Luis',
+  from: '5213322082281'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '1B66F4F2516098E2381915B61ACA6D34',
+    participant: undefined
+  },
+  messageTimestamp: 1748312229,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '1C82DFEDA497C03430C52180E13C1E6D',
+    participant: undefined
+  },
+  messageTimestamp: 1748312264,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ffdadd8f-d8c6-41cf-9614-6019529532cd',
+  keyword: 'key_a0497dd8-e951-4551-becf-0f4fa64be1d7',
+  answer: 'Verifica que tu dispositivo ( celular, laptop, pc, tableta, etc) tenga el wifi encendido, de no ser así, por favor enciendelo y espera 5 minutos para verificar que tengas señal.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4a172931824695763c8440e153548b6c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '3527BA7E8DE88F50ABA508DACEC3367F',
+    participant: undefined
+  },
+  messageTimestamp: 1748312271,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7bf8fa9b-0ba4-4004-bbe3-6b1a9b1e0e9a',
+  keyword: 'key_79c665df-e65c-410d-8bea-41cc79f8971c',
+  answer: 'Muy bien, me alegra haber sido de ayuda😁.\nHasta pronto.',
+  options: {
+    media: 'https://media.tenor.com/Oh8hxdAREWkAAAAe/gato-like.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '77d0b0af134ed6a1a85ee1147b42631f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '333C31BE9773E43FA92DD45B903B4AA6',
+    participant: undefined
+  },
+  messageTimestamp: 1748473707,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hi',
+  from: '5213322082281'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '09584175FF34F04639664A1A2837502A',
+    participant: undefined
+  },
+  messageTimestamp: 1748473716,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Olaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Olaa',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'FF26CE3FF6AB0113B53556241B2FB93E',
+    participant: undefined
+  },
+  messageTimestamp: 1748473732,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10aa7f93-b1d2-4625-b0ee-39a91c563bbb',
+  keyword: 'key_60adc3f5-7f7a-47c4-8d76-08371a07e9cc',
+  answer: ' Intenta desconectando los equipos, espera 1 minuto y vuelve a conectar los equipos, espera 10 minutos y revisa la red \n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '13c913386fe7b7cc1eadf73ae369c1ad'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'CDB6540C0A739C9C739D09D69A19A6BD',
+    participant: undefined
+  },
+  messageTimestamp: 1748473737,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  keyword: 'key_c20b4717-5e33-4f91-bb8a-105593647416',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f4096f19c24b53ec357abb7737d1738d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc55c191-cca0-4382-bbe7-e70a3a8ee310',
+  keyword: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ed5e8b026b384bb671e701df71c8f174'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '47916AD56743C23B9B68EBC74893AC39',
+    participant: undefined
+  },
+  messageTimestamp: 1748474643,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '36D0C1E28E30C80F3B6E136DF7A6AFD0',
+    participant: undefined
+  },
+  messageTimestamp: 1748474650,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_10aa7f93-b1d2-4625-b0ee-39a91c563bbb',
+  keyword: 'key_60adc3f5-7f7a-47c4-8d76-08371a07e9cc',
+  answer: ' Intenta desconectando los equipos, espera 1 minuto y vuelve a conectar los equipos, espera 10 minutos y revisa la red \n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '13c913386fe7b7cc1eadf73ae369c1ad'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '3004F0833A9A70B65F88A09E4C4D345E',
+    participant: undefined
+  },
+  messageTimestamp: 1748474653,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  keyword: 'key_c20b4717-5e33-4f91-bb8a-105593647416',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f4096f19c24b53ec357abb7737d1738d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc55c191-cca0-4382-bbe7-e70a3a8ee310',
+  keyword: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ed5e8b026b384bb671e701df71c8f174'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481135736@s.whatsapp.net',
+    fromMe: false,
+    id: '5006C7375E5EAF082B251A72FDA9FE8A',
+    participant: undefined
+  },
+  messageTimestamp: 1749143373,
+  pushName: 'Margarita Pérez',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/11895818_1114345693812586_2975536943938422964_n.enc?ccb=11-4&oh=01_Q5Aa1gEOPADkzvdO_ZSBvQVa3nObRrCgCIPm5kArfEujw-3bCA&oe=686938B9&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 431,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/11895818_1114345693812586_2975536943938422964_n.enc?ccb=11-4&oh=01_Q5Aa1gEOPADkzvdO_ZSBvQVa3nObRrCgCIPm5kArfEujw-3bCA&oe=686938B9&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__7750bf71-fe43-4068-9b07-23ee522120ec',
+  from: '5213481135736'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517585099@s.whatsapp.net',
+    fromMe: false,
+    id: '830B6B63E131933E25',
+    participant: undefined
+  },
+  messageTimestamp: 1749150087,
+  pushName: '5493517585099',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Mercado Libre Seguridad',
+  body: '',
+  from: '5493517585099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517585099@s.whatsapp.net',
+    fromMe: false,
+    id: '4CA870FF37F9749E51',
+    participant: undefined
+  },
+  messageTimestamp: 1749150334,
+  pushName: '5493517585099',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Mercado Libre Seguridad',
+  body: '',
+  from: '5493517585099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: 'CC580839F336BCFBDF471AEFAEBDD03E',
+    participant: undefined
+  },
+  messageTimestamp: 1749161142,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/21314924_1382885226260733_528622460086363845_n.enc?ccb=11-4&oh=01_Q5Aa1gGC5RhVm6CL-Fo1b31n8IvG_Herf-8CWdq1TUGNAWW4hg&oe=68697F08&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/21314924_1382885226260733_528622460086363845_n.enc?ccb=11-4&oh=01_Q5Aa1gGC5RhVm6CL-Fo1b31n8IvG_Herf-8CWdq1TUGNAWW4hg&oe=68697F08&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__f6071f36-76ed-4225-8c7e-6152254b4514',
+  from: '5213481073192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: 'E33A2C03A9D38E5E310E2F4E8A12150C',
+    participant: undefined
+  },
+  messageTimestamp: 1749161158,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Se equivocaron y mandaron los $360 🙈',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Se equivocaron y mandaron los $360 🙈',
+  from: '5213481073192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481073192@s.whatsapp.net',
+    fromMe: false,
+    id: '7140D034557AE6B3A90ECCEC08A1E70E',
+    participant: undefined
+  },
+  messageTimestamp: 1749166592,
+  pushName: 'Cris',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si gustas agrégalo xfa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si gustas agrégalo xfa',
+  from: '5213481073192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481305075@s.whatsapp.net',
+    fromMe: false,
+    id: 'FF1858F4123373B2C6CABD8EF1FCDB44',
+    participant: undefined
+  },
+  messageTimestamp: 1749177711,
+  pushName: 'Nancy Hurtado 💕',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t24/f2/m232/AQOBpNfjnnE8xf0hJiF7Rr0_JWkznawT1l0a3k1OmSXBV6cfl7Zzmj52kVJynpBOXCYtfS1e-IwTcmJW-v8IKuuEciu6j38O1EnkEPPaTg?ccb=9-4&oh=01_Q5Aa1gGAd7kD1PAbAdhtPYc6NasZZBIx9ap2azGKemby2kRDxw&oe=6869B8B0&_nc_sid=e6ed6c&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 344,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t24/f2/m232/AQOBpNfjnnE8xf0hJiF7Rr0_JWkznawT1l0a3k1OmSXBV6cfl7Zzmj52kVJynpBOXCYtfS1e-IwTcmJW-v8IKuuEciu6j38O1EnkEPPaTg?ccb=9-4&oh=01_Q5Aa1gGAd7kD1PAbAdhtPYc6NasZZBIx9ap2azGKemby2kRDxw&oe=6869B8B0&_nc_sid=e6ed6c',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__2dd69714-e712-4d96-8ef7-e1019e2345d1',
+  from: '5213481305075'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213481305075@s.whatsapp.net',
+    fromMe: false,
+    id: '9F3BE5BC3FAF4B36CF7A40F66712647C',
+    participant: undefined
+  },
+  messageTimestamp: 1749179074,
+  pushName: 'Nancy Hurtado 💕',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/29459932_2053222298495857_4176302998355391303_n.enc?ccb=11-4&oh=01_Q5Aa1gFfnSU-7uSp7fSk5mB0UZdYBCYdYHOQikECodmWkfeUJg&oe=6869D8CB&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/29459932_2053222298495857_4176302998355391303_n.enc?ccb=11-4&oh=01_Q5Aa1gFfnSU-7uSp7fSk5mB0UZdYBCYdYHOQikECodmWkfeUJg&oe=6869D8CB&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 505670,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__dbdb33b1-7d83-4589-9320-23d492f82d78',
+  from: '5213481305075'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '7801FBCE4883FFA50F2B0C22B0F160FD',
+    participant: undefined
+  },
+  messageTimestamp: 1749344833,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'A6CF3EC13CB6A4CF72AFF118B8D7B890',
+    participant: undefined
+  },
+  messageTimestamp: 1749344844,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '80661F9257603C1895D152BE965005C7',
+    participant: undefined
+  },
+  messageTimestamp: 1749344849,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2da9a3aa-6b13-4b21-8c76-1e56e0c2e791',
+  keyword: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  answer: 'Por favor, ingresa el número de la opción.\n' +
+    '1.- No hay señal wifi.\n' +
+    '2.- No hay internet en ningún dispositivo.\n' +
+    '3.- El internet está muy lento.\n' +
+    '4.- El internet viene y se va.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3c873c9d28e1b5f808bc46fea18c5a66'
+}
+[ERROR ID (ans_2bd95942-3d42-4228-9f97-b941020cfbc0)]:  null
+Error en sendProviderAndSave (ID ans_2bd95942-3d42-4228-9f97-b941020cfbc0): undefined
+Error al encolar (ID ans_2bd95942-3d42-4228-9f97-b941020cfbc0): undefined
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '7964C50ED8695F464CDDDDBD8DBC651F',
+    participant: undefined
+  },
+  messageTimestamp: 1749344873,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2bd95942-3d42-4228-9f97-b941020cfbc0',
+  keyword: 'key_1df7afa2-5d85-4e36-a378-d403b30ff5e7',
+  answer: '🙌 Hola bienvenido a *Tekca Red*, ¿En qué te puedo ayudar?',
+  options: {
+    media: 'https://pbs.twimg.com/media/CMn0I8xWgAAfGci?format=jpg&name=small',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3a0c7812881aa8e0836cbc9745143a87'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ffdadd8f-d8c6-41cf-9614-6019529532cd',
+  keyword: 'key_a0497dd8-e951-4551-becf-0f4fa64be1d7',
+  answer: 'Verifica que tu dispositivo ( celular, laptop, pc, tableta, etc) tenga el wifi encendido, de no ser así, por favor enciendelo y espera 5 minutos para verificar que tengas señal.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4a172931824695763c8440e153548b6c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: '03DB07C90E51592812FBFC90A85A77D9',
+    participant: undefined
+  },
+  messageTimestamp: 1749344881,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03d7d777-b5c4-48b8-b2e1-00c2167cd3cd',
+  keyword: 'key_3fd49e92-af52-49e1-8d93-d0650db2f75a',
+  answer: ' Revisa que tu celular reconozca la red, si la reconoce vuelve a ingresar la contraseña.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '07572f8c915c6a12369f80a3dde70263'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'BD72D18FD8E9DD2630600EBC36FE0F30',
+    participant: undefined
+  },
+  messageTimestamp: 1749345364,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_08f4fe27-22ac-45dc-92fd-3f48f1860504',
+  keyword: 'key_658eb4ed-0325-401b-87d7-eeb46bb8ea7b',
+  answer: 'Asegurate que el modem tenga el foquito de WLAN o WIFI encendido, de no ser así, apaga y prende el modem, espera unos 8 minutos y vé si resultó.\n' +
+    '¿Funcionó? Si o No.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b2fb10de5bb46e3ffaa97d1fe0ba0d7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213322082281@s.whatsapp.net',
+    fromMe: false,
+    id: 'B774C955F35962967EBA758301A7791C',
+    participant: undefined
+  },
+  messageTimestamp: 1749345770,
+  pushName: 'LD',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5213322082281'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  keyword: 'key_c20b4717-5e33-4f91-bb8a-105593647416',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f4096f19c24b53ec357abb7737d1738d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc55c191-cca0-4382-bbe7-e70a3a8ee310',
+  keyword: 'ans_63599d3b-f068-4af4-8a3a-a3c1bac824c0',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ed5e8b026b384bb671e701df71c8f174'
+}
